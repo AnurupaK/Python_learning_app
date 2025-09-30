@@ -1,0 +1,56 @@
+.timeline {
+    font-family: 'Roboto';
+    text-align: center;
+    font-size: 2rem;
+    padding: 13px;
+    box-sizing: border-box;
+    background-color: purple;
+    color: white;
+}
+
+
+.l1Box {
+    border: 1px solid black;
+    width: 56%;
+    min-height: 67%;
+    margin: 10px auto;
+    background-position: center;
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+}
+
+
+.timeline-img {
+    background-image: url(img/L1_img1.png);
+
+}
+
+.history {
+    background-image: url(img/L1_img2.png);
+   
+}
+
+.features {
+    background-image: url(img/L1_img3.png);
+   
+}
+
+.programming-need1{
+    background-image: url(img/L1_img4.png);
+}
+
+.programming-need2{
+    background-image: url(img/L1_img5.png);
+}
+
+.programming-need3{
+    background-image: url(img/L1_img6.png);
+}
+
+.programming-types{
+    background-image: url(img/L1_img7.png);
+}
+
+.translators{
+    background-image: url(img/L1_img8.png);
+}
